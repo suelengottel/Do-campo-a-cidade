@@ -2,7 +2,7 @@ text-align: center;
 padding: 16px 0;
 }
 .rodape{
-background-color: rgb(0, 0, 0);
+background-color: #fcdff5;
 text-align: center;
 }
 
@@ -12,7 +12,7 @@ padding: 12px 0;
 
 }
 :root{
-    --cor-fundo: #01080E;
+    --cor-fundo: #fcdff5;
     --cor-principal: #eb78bb ;
     --cor-secundaria: #eb78bb;
     --cor-destaque: #e659b7;
